@@ -1,0 +1,103 @@
+﻿tabla,variable,etiqueta_ined,motivo
+Persona,p0,Pobreza por ingreso,Variable de ingreso/gasto o derivada de ingreso
+Persona,p1,Brecha de pobreza por ingreso,Variable de ingreso/gasto o derivada de ingreso
+Persona,p2,Magnitud de pobreza por ingreso,Variable de ingreso/gasto o derivada de ingreso
+Persona,pext0,Pobreza extrema o indigencia por ingreso,Variable de ingreso/gasto o derivada de ingreso
+Persona,pext1,Brecha de pobreza extrema por ingreso,Variable de ingreso/gasto o derivada de ingreso
+Persona,pext2,Magnitud de pobreza extrema por ingreso,Variable de ingreso/gasto o derivada de ingreso
+Persona,s02b_11,"En su último embarazo, ¿se ha inscrito al Bono Juana Azurduy (BJA)?",Variable de ingreso/gasto o derivada de ingreso
+Persona,s02b_12a1,"En los últimos 12 meses, ¿cobró usted el Bono Juana Azurduy por: A. Controles prenatales realizados?",Variable de ingreso/gasto o derivada de ingreso
+Persona,s02b_12a2,"En los últimos 12 meses, ¿cobró usted el Bono Juana Azurduy por: A. Controles prenatales realizados? Nº de Controles",Variable de ingreso/gasto o derivada de ingreso
+Persona,s02b_12b,"En los últimos 12 meses, ¿cobró usted el Bono Juana Azurduy por: B. El parto y primer control postparto?",Variable de ingreso/gasto o derivada de ingreso
+Persona,s02d_16,¿Alguna vez inscribieron a (…) al Bono Juana Azurduy?,Variable de ingreso/gasto o derivada de ingreso
+Persona,s02d_17,"En los últimos 12 meses, ¿cobró usted el Bono Juana Azurduy por los controles integrales de salud de (…)?",Variable de ingreso/gasto o derivada de ingreso
+Persona,s02d_17a,"En los últimos 12 meses, ¿cobró usted el Bono Juana Azurduy por los controles integrales de salud de (…)? ¿Cuántos contr",Variable de ingreso/gasto o derivada de ingreso
+Persona,s03a_08,¿Recibió el Bono Juancito Pinto el año pasado (2024)?,Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_17a,"¿Cuánto es su salario líquido, excluyendo los descuentos de ley (Gestora/AFP, IVA)? Monto (Bs)",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_17b,"¿Cuánto es su salario líquido, excluyendo los descuentos de ley (Gestora/AFP, IVA)? Frecuencia.",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_18a,"Durante los últimos doce meses, ¿recibió usted pagos por: A. Bonos laborales o prima de producción?",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_18b,"Durante los últimos doce meses, ¿recibió usted pagos por: B. Aguinaldo (Incluir si recibió este beneficio de un empleo a",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_19aa,"Durante los últimos doce meses, ¿recibió usted pagos en efectivo por: A. Comisiones, destajo, propinas, bonos de transpo",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_19ab,"Durante los últimos doce meses, ¿recibió usted pagos en efectivo por: A. Comisiones, destajo, propinas, bonos de transpo",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_19ba,"Durante los últimos doce meses, ¿recibió usted pagos en efectivo por: B. Horas Extras? Monto (Bs)",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_19bb,"Durante los últimos doce meses, ¿recibió usted pagos en efectivo por: B. Horas Extras? Frecuencia de pago:",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_20b,"Durante los últimos doce meses, ¿recibió usted: B. Bono de natalidad?",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21a,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted… A. Alimentos y beb",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21a1,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted… A. Alimentos y beb",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21a2,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted… A. Alimentos y beb",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21b,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted… B. Transporte haci",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21b1,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted… B. Transporte haci",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21b2,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted… B. Transporte haci",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21c,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted… C. Vestidos y calz",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21c1,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted… C. Vestidos y calz",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21c2,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted… C. Vestidos y calz",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21d,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted… D. Vivienda o aloj",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21d1,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted...D. Vivienda o alo",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21d2,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted...D. Vivienda o alo",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21e,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted… E. Otros, como ser",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21e1,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted...E. Otros, como se",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04c_21e2,"Además de los ingresos recibidos en dinero por su trabajo, en los últimos doce meses ¿recibió, usted...E. Otros, como se",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_22a,¿Cuánto es su ingreso total en su ocupación principal? Monto (Bs),Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_22b,¿Cuánto es su ingreso total en su ocupación principal? Frecuencia de ingreso:,Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23aa,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… A. Comprar materia prima, materiales",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23ab,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… A. Comprar materia prima, materiales",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23ba,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… B. Pagar por prestación de servicios",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23bb,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… B. Pagar por prestación de servicios",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23ca,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… C. Pagar sueldos, salarios, bonos, g",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23cb,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… C. Pagar sueldos, salarios, bonos, g",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23da,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… D. Pagar alquiler del local/vehiculo",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23db,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… D. Pagar alquiler del local/vehiculo",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23ea,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… E. Pagar servicios de agua, luz, gas",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23eb,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… E. Pagar servicios de agua, luz, gas",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23fa,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… F. Pagar cuotas regulares por concep",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23fb,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… F. Pagar cuotas regulares por concep",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23ga,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… G. Pagar impuestos, sentajes? Monto ",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23gb,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… G. Pagar impuestos, sentajes? Frecue",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23ha,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… H. Pagar cuotas a sindicatos, gremio",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_23hb,"Del ingreso total declarado en la pregunta anterior, ¿cuánto utiliza o guarda para… H. Pagar cuotas a sindicatos, gremio",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_24a,"Una vez descontadas todas sus obligaciones (sueldos, salarios, compra de material, mercadería, etc.), ¿cuánto le queda p",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04d_24b,"Una vez descontadas todas sus obligaciones (sueldos, salarios, compra de material, mercadería, etc.), ¿cuánto le queda p",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04f_31a,"¿Cuánto es su salario líquido en ésta otra ocupación,  excluyendo los descuentos de ley (Gestora/AFP, IVA)?",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04f_31b,"¿Cuánto es su salario líquido en ésta otra ocupación,  excluyendo los descuentos de ley (Gestora/AFP, IVA)? Frecuencia d",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04f_32a,"Durante los últimos doce meses, ha recibido: A. ¿Pago por horas extras, bono o prima de producción, aguinaldo?",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04f_32a1,"Durante los últimos doce meses, ha recibido: A. ¿Pago por horas extras, bono o prima de producción, aguinaldo? Monto (Bs",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04f_33a,¿Cuánto es su ingreso total en ésta otra ocupación? Monto (Bs),Variable de ingreso/gasto o derivada de ingreso
+Persona,s04f_33b,¿Cuánto es su ingreso total en ésta otra ocupación? Frecuencia de ingreso:,Variable de ingreso/gasto o derivada de ingreso
+Persona,s04f_34a,"Una vez pagadas todas sus obligaciones (sueldos, salarios, compra de materiales, etc.), ¿cuánto le queda para uso del ho",Variable de ingreso/gasto o derivada de ingreso
+Persona,s04f_34b,"Una vez pagadas todas sus obligaciones (sueldos, salarios, compra de materiales, etc.), ¿cuánto le queda para uso del ho",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_01a,Recibe usted ingresos (rentas) por: A. ¿Jubilación (vejez)? Excluya el monto de la Renta Dignidad (MENSUAL),Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_01b,Recibe usted ingresos (rentas) por: B. ¿Benemérito? Excluya el monto de la Renta Dignidad (MENSUAL),Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_01c,Recibe usted ingresos (rentas) por: C. ¿Invalidez? (MENSUAL),Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_01d,"Recibe usted ingresos (rentas) por: D. ¿Viudez, orfandad? (MENSUAL)",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_01e,Recibe usted ingresos (rentas) por: E. ¿Renta Dignidad? (MENSUAL),Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_01e0,Recibe usted ingresos (rentas) mensuales por: E. ¿Renta Dignidad? (MENSUAL) Monto (Bs),Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_01f,Recibe usted ingresos (rentas) mensuales por: F. ¿Aguinaldo de la Renta Dignidad?,Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_02a,"Además de los ingresos mencionados, recibe usted ingresos (rentas) mensuales por: A. ¿Intereses? (por depósitos bancario",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_02b,"Además de los ingresos mencionados, recibe usted ingresos (rentas) mensuales por: B. ¿Alquiler de propiedades inmuebles ",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_02c,"Además de los ingresos mencionados, recibe usted ingresos (rentas) mensuales por: C. ¿Otras rentas?",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_02ce,"Además de los ingresos mencionados, recibe usted ingresos (rentas) mensuales por: C. ¿Otras rentas? (Especifique)",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_04a,"Además de los ingresos mencionados anteriormente, durante los últimos doce meses, ¿recibió, usted… A. Indemnización por ",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_04b,"Además de los ingresos mencionados anteriormente, durante los últimos doce meses, ¿recibió, usted… B. Indemnización de S",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_04c,"Además de los ingresos mencionados anteriormente, durante los últimos doce meses, ¿recibió, usted… C. Ingresos por antic",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05a_04d,"Además de los ingresos mencionados anteriormente, durante los últimos doce meses, ¿recibió, usted… D. Otros ingresos ext",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05b_06aa,"En los últimos doce meses, ¿recibió usted… A. Bono de Indigencia por ceguera o Bono mensual para personas por discapacid",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05b_06ab,"En los últimos doce meses, ¿recibió usted… A. Bono de Indigencia por ceguera o Bono mensual para personas por discapacid",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05b_06ae,"En los últimos doce meses, ¿recibió usted… A. Bono de Indigencia por ceguera o Bono mensual para personas por discapacid",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05b_06ba,"En los últimos doce meses, ¿recibió usted… B. Otros bonos sociales  en efectivo? Monto (Bs)",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05b_06bb,"En los últimos doce meses, ¿recibió usted… B. Otros bonos sociales  en efectivo? Frecuencia",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05b_06be,"En los últimos doce meses, ¿recibió usted… B. Otros bonos sociales  en efectivo? (Especifique)",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05b_06ca,"En los últimos doce meses, ¿recibió usted… C. Otros bonos sociales en especie? (VALORAR EN BS.) Monto (Bs)",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05b_06cb,"En los últimos doce meses, ¿recibió usted… C. Otros bonos sociales en especie? (VALORAR EN BS.) Frecuencia",Variable de ingreso/gasto o derivada de ingreso
+Persona,s05b_06ce,"En los últimos doce meses, ¿recibió usted… C. Otros bonos sociales en especie? (VALORAR EN BS.) (Especifique)",Variable de ingreso/gasto o derivada de ingreso
+Persona,yhog,Ingreso del hogar (Bs/Mes),Variable de ingreso/gasto o derivada de ingreso
+Persona,yhogpc,Ingreso percápita del hogar (Bs/Mes),Variable de ingreso/gasto o derivada de ingreso
+Persona,ylab,Ingreso laboral (Bs/Mes),Variable de ingreso/gasto o derivada de ingreso
+Persona,ynolab,Ingreso no laboral (Bs/Mes),Variable de ingreso/gasto o derivada de ingreso
+Persona,yper,Ingreso personal (Bs/Mes),Variable de ingreso/gasto o derivada de ingreso
+Persona,yprilab,Ingreso laboral Ocupación Principal (Bs/Mes),Variable de ingreso/gasto o derivada de ingreso
+Persona,yseclab,Ingreso laboral Ocupación Secundaria (Bs/Mes),Variable de ingreso/gasto o derivada de ingreso
+Persona,z,Línea de pobreza (Bs/persona/mes),Variable de ingreso/gasto o derivada de ingreso
+Persona,zext,Línea de pobreza extrema o de indigencia (bs/persona/mes),Variable de ingreso/gasto o derivada de ingreso
+Tabla completa,EH2025_Gastos_Alimentarios.sav,Gasto alimentario del hogar (proxy de ingreso),No se usa: riesgo de fuga de datos
+Tabla completa,EH2025_Gastos_No_Alimentarios.sav,Gasto no alimentario del hogar (proxy de ingreso),No se usa: riesgo de fuga de datos
+Tabla completa,EH2025_Discriminacion.sav,Modulo de discriminacion,No se usa: fuera del alcance del proyecto

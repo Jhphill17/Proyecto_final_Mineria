@@ -1,0 +1,68 @@
+﻿nombre_original,nombre_legible,descripcion,tabla_origen,tipo_dato,significado_codigos,rol,grupo_redundancia
+folio,ID del hogar,Identificador unico del hogar (UPM-segmento-persona),Vivienda/Persona,texto,folio = ID; UPM = dos primeros bloques,ID,Ninguno
+depto,Departamento,Departamento,,categórica,1=Chuquisaca; 2=La Paz; 3=Cochabamba; 4=Oruro; 5=Potosí; 6=Tarija; 7=Santa Cruz; 8=Beni; 9=Pando,predictor,Ninguno
+area,Urbana Rural,Urbana Rural,,binaria,1=Urbano; 2=Rural,predictor,Ninguno
+s06a_01,La vivienda es:,La vivienda es:,,categórica,1=1. Casa; 2=2. Choza/ Pahuichi; 3=3. Departamento; 4=4. Cuarto(s) o habitacion(es) suelta(s); 5=5. Vivienda improvisada o vivienda móvil; 6=6. Local no destinado para vivienda,predictor,Ninguno
+s06a_02,La vivienda que ocupa este hogar es:,La vivienda que ocupa este hogar es:,,categórica,1=1. ¿Propia y totalmente pagada?; 2=2. ¿Propia y la están pagando?; 3=3. ¿Alquilada?; 4=4. ¿En contrato Mixto (alquiler y anticretico)?; 5=5. ¿En contrato anticretico?; 6=6. ¿Cedida por servicios?; 7,predictor,Ninguno
+s06a_03,¿Cuál es el material de construcción más utilizado en las paredes de esta vivien,¿Cuál es el material de construcción más utilizado en las paredes de esta vivienda?,,categórica,1=1. LADRILLO/ BLOQUES DE CEMENTO/ HORMIGÓN; 2=2. ADOBE / TAPIAL; 3=3. TABIQUE/ QUINCHE; 4=4. PIEDRA; 5=5. MADERA; 6=6. CAÑA/ PALMA/ TRONCO; 7=7. OTRO (Especifique),predictor,Ninguno
+s06a_05,¿Cuál es el material más utilizado en los techos de esta vivienda?,¿Cuál es el material más utilizado en los techos de esta vivienda?,,categórica,1=1. CALAMINA O PLANCHA; 2=2. TEJA (CEMENTO/ ARCILLA/ FIBROCEMENTO; 3=3. LOSA DE HORMIGÓN ARMADO; 4=4. PAJA/ CAÑA/ PALMA/ BARRO; 5=5. OTRO (Especifique),predictor,Ninguno
+s06a_06,¿Cuál es el material más utilizado en los pisos de esta vivienda?,¿Cuál es el material más utilizado en los pisos de esta vivienda?,,categórica,1=1. TIERRA; 2=2. TABLÓN DE MADERA; 3=3. MACHIHEMBRE/PARQUET; 4=4. PISO FLOTANTE; 5=5. CEMENTO; 6=6. MOSAICO/BALDOSAS; 7=7. LADRILLO; 8=8. CERMICA PORCELANATO; 9=9. OTRO (Especifique),predictor,Ninguno
+s06a_07,"¿Principalmente ¿el agua que usan en la vivienda, proviene de...","¿Principalmente ¿el agua que usan en la vivienda, proviene de...",,categórica,"1=1. Cañería de red dentro de la vivienda?; 2=2. Cañería de red fuera de la vivienda, pero dentro del lote o terreno?; 3=3. Pileta pública?; 4=4. Cosecha de agua de lluvia?; 5=5. Pozo excabado o perfo",predictor,Ninguno
+s06a_09,"¿Qué tipo de baño, servicio sanitario o letrina utilizan normalmente los miembro","¿Qué tipo de baño, servicio sanitario o letrina utilizan normalmente los miembros de su hogar",,categórica,1=1. Baño o letrina con descarga de agua; 2=2. Letrina de pozo ciego con piso; 3=3. Pozo abierto (pozo ciego sin piso); 4=4. Baño ecológico (seco o de compostaje); 5=5. Ninguno (Arbusto/Campo),predictor,Ninguno
+s06a_10,"¿El baño, servicio sanitario o letrina tiene desagüe…","¿El baño, servicio sanitario o letrina tiene desagüe…",,categórica,1=1. A la red de alcantarillado?; 2=2. A una cámara séptica?; 3=3. A un pozo de absorción?; 4=4. A la superficie (calle/quebrada/río)?; 5=5. No sabe?,predictor,Ninguno
+s06a_11,"¿El baño, servicio sanitario o letrina es…","¿El baño, servicio sanitario o letrina es…",,categórica,1=1. Usado sólo por su hogar?; 2=2. Compartido con otros hogares?,predictor,Ninguno
+s06a_12,¿Usa energía eléctrica para alumbrar esta vivienda?,¿Usa energía eléctrica para alumbrar esta vivienda?,,binaria,1=1. Si; 2=2. No,predictor,Ninguno
+s06a_13,¿Habitualmente que hace con la basura que genera el hogar?,¿Habitualmente que hace con la basura que genera el hogar?,,categórica,1=1. LA TIRA AL RIO; 2=2. LA QUEMA; 3=3. LA TIRA EN UN TERRENO BALDÍO O A LA CALLE; 4=4. LA ENTIERRA; 5=5. LA DEPOSITA EN EL BASURERO PÚBLICO O CONTENEDOR; 6=6. UTILIZA EL SERVICIO PÚBLICO DE RECOLECC,predictor,Ninguno
+s06a_14,¿Tiene un cuarto sólo para cocinar?,¿Tiene un cuarto sólo para cocinar?,,binaria,1=1. Si; 2=2. No,predictor,Ninguno
+s06a_15,Principalmente ¿qué tipo de combustible o energía utiliza para cocinar preparar ,Principalmente ¿qué tipo de combustible o energía utiliza para cocinar preparar sus alimentos?,,categórica,1=1. LEÑA; 2=2. GUANO/BOSTA O TAQUIA; 3=3. GAS LICUADO (garrafa); 4=4. GAS POR CAÑERIA (A DOMICILIO); 5=5. OTRO (Especifique); 6=6. ELECTRICIDAD; 7=7. NO COCINA,predictor,Ninguno
+s06a_16,"¿Cuántos cuartos o habitaciones de esta vivienda ocupa su hogar, sin contar baño","¿Cuántos cuartos o habitaciones de esta vivienda ocupa su hogar, sin contar baño, cocina, lavandería, garage, depósito o negocio?",,categórica,,predictor,Ninguno
+s06a_18,¿El hogar dispone de línea telefónica fija?,¿El hogar dispone de línea telefónica fija?,,binaria,1=1. Si; 2=2. No,predictor,Ninguno
+s06a_19,¿Tiene el hogar acceso al servicio de internet en su vivienda?,¿Tiene el hogar acceso al servicio de internet en su vivienda?,,binaria,1=1. Si; 2=2. No,predictor,Ninguno
+s06a_20," ¿La conexión a internet es fija, móvil o de ambas?"," ¿La conexión a internet es fija, móvil o de ambas?",,categórica,"1=1. Solo fija(la conexión solo puede realizarse en la vivienda); 2=2. Solo móvil (la conexión es mediante red móvil como celular o modem USB, por cualquiera de los miembros del hogar; 3=3. Ambas(fija",predictor,Ninguno
+num_dormitorios,Dormitorios,Cuartos usados exclusivamente para dormir (s06a_17; 0 imputado a 1),Vivienda,numérica discreta,0 del original = sin cuarto exclusivo -> 1,predictor,G6
+tamano_hogar,Tamaño del hogar,Número de personas del hogar,Persona,numérica discreta,,predictor,G5
+num_menores_14,Menores de 14 años,Miembros con edad < 14,Persona,numérica discreta,,predictor,G1
+num_adultos_mayores,Adultos mayores,Miembros con edad >= 60,Persona,numérica discreta,,predictor,G4
+num_ocupados,Miembros ocupados,Miembros con condact==1 (trabajó semana pasada),Persona,numérica discreta,,predictor,Ninguno
+anios_estudio_prom_15mas,Años estudio prom. 15+,Promedio de aestudio de miembros >=15 años,Persona,numérica,Excluye menores para no sesgar,predictor,G2
+prop_menores_14,Proporción menores 14,num_menores_14 / tamano_hogar,Ingeniería,numérica,Derivada,predictor,G1
+prop_adultos_mayores,Proporción adultos mayores,num_adultos_mayores / tamano_hogar,Ingeniería,numérica,Derivada,predictor,G4
+tasa_dependencia_ocupados,Dependientes por ocupado,(tamano-ocupados)/ocupados; si 0 ocupados = tamano_hogar,Ingeniería,numérica,Derivada,predictor,Ninguno
+jefe_sexo,¿Es hombre o mujer?,¿Es hombre o mujer?,,binaria,1=1. Hombre; 2=2. Mujer,predictor,Ninguno
+jefe_edad,Edad del jefe/a,Edad en años del jefe/a de hogar,Persona (Jefe),numérica,,predictor,Ninguno
+jefe_indigena,¿Se autoidentifica con alguna nación pueblo indígena originario campesino o afro,¿Se autoidentifica con alguna nación pueblo indígena originario campesino o afroboliviano?,,binaria,1=1. Si; 2=2. No,predictor,Ninguno
+jefe_estado_civil,¿Cuál es su estado civil o conyugal actual?,¿Cuál es su estado civil o conyugal actual?,,categórica,1=1. CASADA(O); 2=2. CONVIVIENTE O CONCUBINA(O); 3=3. SEPARADA(O); 4=4. DIVORCIADA(O); 5=5. VIUDA(O); 6=6. SOLTERA(O),predictor,Ninguno
+jefe_nivel_ed,Nivel educativo jefe,niv_ed del jefe (0=Ninguno ... 6=Otros),Persona (Jefe),ordinal,,predictor,G2
+jefe_anios_estudio,Años estudio jefe,aestudio del jefe (0-23); NaN->0,Persona (Jefe),numérica discreta,,predictor,G2
+jefe_condact,Condición actividad jefe,condact del jefe: 0=pensionado?;1=ocupado;2=cesante;3=aspirante;4=temporal;5=permanente,Persona (Jefe),categórica,Ver decisiones_limpieza,predictor,Ninguno
+jefe_tipo_ocupacion,Tipo ocupación jefe,s04b_12 del jefe (1-8); 0=No aplica (sin ocupación),Persona (Jefe),categórica,"0 = no aplica, NO faltante",predictor,Ninguno
+jefe_grupo_ocup,Grupo ocupacional jefe,cob_op del jefe (0-9); 0=No aplica (sin ocupación),Persona (Jefe),categórica,"0 = no aplica, NO faltante",predictor,Ninguno
+tipohogar,Tipo de hogar,"Tipología de hogar del INE (unipersonal, nuclear, extendido...)",Persona,categórica,,predictor,Ninguno
+puntaje_inseguridad_alim,Puntaje FIES,Suma de respuestas afirmativas (0-8) a las 8 preguntas FIES,Seg. Alimentaria,ordinal,NS/NR cuenta como No,predictor,G3
+nivel_inseguridad_alim,Nivel inseguridad alim.,0=Segura;1=Leve;2=Moderada;3=Severa (FIES),Seg. Alimentaria,ordinal,Derivada del puntaje,predictor,G3
+equip_item_1,1. Juego de living (completo)?,1. Juego de living (completo)?,,binaria,,predictor,Ninguno
+equip_item_2,2. Juego de comedor (completo)?,2. Juego de comedor (completo)?,,binaria,,predictor,Ninguno
+equip_item_3,"3. Cocina (a gas, eléctrica, etc.), horno?","3. Cocina (a gas, eléctrica, etc.), horno?",,binaria,,predictor,Ninguno
+equip_item_4,4. Horno microondas/microondas/freidoras de aire?,4. Horno microondas/microondas/freidoras de aire?,,binaria,,predictor,Ninguno
+equip_item_5,5. Refrigerador/freezer congeladora?,5. Refrigerador/freezer congeladora?,,binaria,,predictor,Ninguno
+equip_item_6,6. Aire acondicionado/estufa o calefón/ventilador?,6. Aire acondicionado/estufa o calefón/ventilador?,,binaria,,predictor,Ninguno
+equip_item_7,"7. Computadora de escritorio, laptop, notebook?","7. Computadora de escritorio, laptop, notebook?",,binaria,,predictor,Ninguno
+equip_item_8,8. Tablet?,8. Tablet?,,binaria,,predictor,Ninguno
+equip_item_9,9. Teléfono celular?,9. Teléfono celular?,,binaria,,predictor,Ninguno
+equip_item_10,"10. Radio, radiograbador?","10. Radio, radiograbador?",,binaria,,predictor,Ninguno
+equip_item_11,11. Minicomponente o equipo de sonido?,11. Minicomponente o equipo de sonido?,,binaria,,predictor,Ninguno
+equip_item_12,12. Televisor CRT antiguo?,12. Televisor CRT antiguo?,,binaria,,predictor,Ninguno
+equip_item_13,"13. Televisor Plasma, LCD,LED (pantalla plana, sin conectividad a internet)?","13. Televisor Plasma, LCD,LED (pantalla plana, sin conectividad a internet)?",,binaria,,predictor,Ninguno
+equip_item_14,"14. Televisor SMART o ANDROID (pantalla plana, con conectividad a internet)?","14. Televisor SMART o ANDROID (pantalla plana, con conectividad a internet)?",,binaria,,predictor,Ninguno
+equip_item_15,15. Lavadora y/o secadora de ropa?,15. Lavadora y/o secadora de ropa?,,binaria,,predictor,Ninguno
+equip_item_16,16. Bicicleta (para uso del hogar)?,16. Bicicleta (para uso del hogar)?,,binaria,,predictor,Ninguno
+equip_item_17,17. Motocicleta (para uso del hogar)?,17. Motocicleta (para uso del hogar)?,,binaria,,predictor,Ninguno
+equip_item_18,18. Automóvil (para uso del hogar)?,18. Automóvil (para uso del hogar)?,,binaria,,predictor,Ninguno
+total_activos_hogar,Total activos hogar,Suma de los 18 bienes durables del hogar,Equipamiento,numérica discreta,Derivada,predictor,Ninguno
+personas_por_dormitorio,Personas por dormitorio,tamano_hogar / num_dormitorios,Ingeniería,numérica,Hacinamiento si > 2.5,predictor,G6
+hacinamiento,Hacinamiento,1 si personas_por_dormitorio > 2.5,Ingeniería,binaria,Derivada,predictor,G6
+jefe_estudio_rango,Rango estudio jefe,0=Bajo(0-6); 1=Medio(7-12); 2=Alto(>12) años,Ingeniería,ordinal,Derivada,predictor,G2
+tamano_hogar_rango,Rango tamaño hogar,0=Bajo(1-2); 1=Medio(3-4); 2=Alto(5+),Ingeniería,ordinal,Derivada,predictor,G5
+factor,Factor de expansión,Peso de expansion muestral del INE,Vivienda,numérica,Solo estadisticas ponderadas; NUNCA predictor,peso,Ninguno
+p0,Pobreza por ingreso,"1=Pobre, 0=No pobre (la calcula el INE)",Persona,binaria,Etiqueta principal,etiqueta,Ninguno
+pext0,Pobreza extrema,"1=Pobre extremo, 0=No (deriva del mismo ingreso)",Persona,binaria,Etiqueta secundaria; NO predictor (fuga),etiqueta,Ninguno

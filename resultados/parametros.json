@@ -1,0 +1,17 @@
+{
+  "semilla": 42,
+  "n_hogares": 12726,
+  "n_predictores": 63,
+  "n_nominales": 50,
+  "n_numericas": 13,
+  "umbral": 0.4876638833833656,
+  "modelo_elegido": "gb_bal",
+  "auc_oof": 0.8563706479145137,
+  "media_prob_cruda": 0.451383765866836,
+  "media_prob_calibrada": 0.37922363664937925,
+  "pobreza_real": 0.37922363664937925,
+  "pobreza_ponderada": 0.37781204672623425,
+  "k_clusters": 3,
+  "ari_semillas": 0.9991448489182223,
+  "ari_vs_ward": 0.3740433240827134
+}

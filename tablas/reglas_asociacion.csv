@@ -1,0 +1,51 @@
+﻿antecedente,consecuente,soporte,confianza,lift,n_hogares,soporte_condicional
+Posee: Horno microondas/microondas/freidoras de aire,HOGAR_NO_POBRE,0.1179,0.8197,1.32,1500,0.1899
+Posee: Lavadora y/o secadora de ropa,HOGAR_NO_POBRE,0.203,0.811,1.307,2584,0.3271
+Posee: Aire acondicionado/estufa o calefón/ventilador,HOGAR_NO_POBRE,0.0958,0.802,1.292,1219,0.1543
+Sin cuarto para cocinar + Sin hacinamiento + Vivienda no propia,HOGAR_NO_POBRE,0.0521,0.7978,1.285,663,0.0839
+Jefe con estudios superiores,HOGAR_NO_POBRE,0.2519,0.7947,1.28,3206,0.4058
+"Posee: Juego de comedor (completo) + Posee: Televisor SMART o ANDROID (pantalla plana, con conectividad a internet)",HOGAR_NO_POBRE,0.1825,0.781,1.258,2322,0.2939
+"Posee: Televisor SMART o ANDROID (pantalla plana, con conectividad a internet) + Vivienda no tipo casa",HOGAR_NO_POBRE,0.0589,0.7796,1.256,750,0.0949
+"Posee: Televisor SMART o ANDROID (pantalla plana, con conectividad a internet) + Sin hacinamiento",HOGAR_NO_POBRE,0.2317,0.7752,1.249,2948,0.3732
+"Posee: Computadora de escritorio, laptop, notebook",HOGAR_NO_POBRE,0.247,0.7732,1.246,3143,0.3978
+Sin cuarto para cocinar + Sin hacinamiento + Tiene internet,HOGAR_NO_POBRE,0.0577,0.771,1.242,734,0.0929
+"Posee: Motocicleta (para uso del hogar) + Posee: Televisor SMART o ANDROID (pantalla plana, con conectividad a internet)",HOGAR_NO_POBRE,0.0564,0.7704,1.241,718,0.0909
+Posee: Juego de comedor (completo) + Tiene internet + Vivienda propia,HOGAR_NO_POBRE,0.2051,0.7681,1.237,2610,0.3304
+Agua por cañería de red + Posee: Motocicleta (para uso del hogar) + Sin hacinamiento,HOGAR_NO_POBRE,0.0702,0.7678,1.237,893,0.113
+Posee: Minicomponente o equipo de sonido,HOGAR_NO_POBRE,0.1235,0.7646,1.232,1572,0.199
+Posee: Juego de comedor (completo) + Posee: Refrigerador/freezer congeladora + Vivienda propia,HOGAR_NO_POBRE,0.2147,0.7651,1.232,2732,0.3458
+Sin hacinamiento + Vivienda no tipo casa,HOGAR_NO_POBRE,0.1135,0.7629,1.229,1445,0.1829
+Agua por cañería de red + Posee: Juego de comedor (completo) + Vivienda propia,HOGAR_NO_POBRE,0.1971,0.7621,1.228,2508,0.3175
+Posee: Motocicleta (para uso del hogar) + Sin hacinamiento + Tiene internet,HOGAR_NO_POBRE,0.0841,0.7621,1.228,1070,0.1354
+Baño con descarga de agua + Posee: Juego de comedor (completo) + Vivienda propia,HOGAR_NO_POBRE,0.2089,0.7616,1.227,2658,0.3365
+Baño con descarga de agua + Posee: Motocicleta (para uso del hogar) + Sin hacinamiento,HOGAR_NO_POBRE,0.0769,0.7613,1.226,979,0.1239
+"Posee: Televisor SMART o ANDROID (pantalla plana, con conectividad a internet) + Vivienda propia",HOGAR_NO_POBRE,0.1568,0.7584,1.222,1996,0.2527
+Posee: Juego de comedor (completo) + Posee: Motocicleta (para uso del hogar) + Tiene internet,HOGAR_NO_POBRE,0.0574,0.7583,1.222,731,0.0925
+Posee: Automóvil (para uso del hogar),HOGAR_NO_POBRE,0.1322,0.7581,1.221,1683,0.213
+"No posee: Televisor Plasma, LCD,LED (pantalla plana, sin conectividad a internet) + Posee: Juego de comedor (completo) + Posee: Refrigerador/freezer congeladora",HOGAR_NO_POBRE,0.1952,0.7582,1.221,2484,0.3144
+No posee: Televisor CRT antiguo + Posee: Juego de comedor (completo) + Vivienda propia,HOGAR_NO_POBRE,0.1957,0.7578,1.221,2491,0.3153
+"No posee: Cocina (a gas, eléctrica, etc.), horno + Sin baño con descarga de agua",HOGAR_POBRE,0.0358,0.6472,1.707,455,0.0943
+"No posee: Cocina (a gas, eléctrica, etc.), horno + Vivienda propia",HOGAR_POBRE,0.0375,0.6377,1.682,477,0.0988
+"No posee: Cocina (a gas, eléctrica, etc.), horno + Sin agua por cañería de red",HOGAR_POBRE,0.0353,0.636,1.677,449,0.093
+No posee: Refrigerador/freezer congeladora + Sin baño con descarga de agua,HOGAR_POBRE,0.0938,0.6232,1.643,1194,0.2474
+Hacinamiento,HOGAR_POBRE,0.1073,0.6163,1.625,1365,0.2828
+No posee: Refrigerador/freezer congeladora + Sin agua por cañería de red,HOGAR_POBRE,0.0884,0.6088,1.605,1125,0.2331
+Sin baño con descarga de agua + Sin internet,HOGAR_POBRE,0.0756,0.6069,1.6,962,0.1993
+No posee: Refrigerador/freezer congeladora + Sin internet,HOGAR_POBRE,0.09,0.6049,1.595,1145,0.2373
+No posee: Juego de comedor (completo) + Sin agua por cañería de red + Vivienda propia,HOGAR_POBRE,0.0968,0.5995,1.581,1232,0.2553
+Sin agua por cañería de red + Sin internet,HOGAR_POBRE,0.0734,0.5972,1.575,934,0.1935
+"No posee: Cocina (a gas, eléctrica, etc.), horno + No posee: Computadora de escritorio, laptop, notebook + Vivienda tipo casa",HOGAR_POBRE,0.038,0.5934,1.565,483,0.1001
+No posee: Refrigerador/freezer congeladora + Vivienda propia,HOGAR_POBRE,0.114,0.5932,1.564,1451,0.3007
+"No posee: Cocina (a gas, eléctrica, etc.), horno + No posee: Televisor Plasma, LCD,LED (pantalla plana, sin conectividad a internet) + Vivienda tipo casa",HOGAR_POBRE,0.0358,0.5907,1.558,456,0.0945
+"Cuarto exclusivo para cocinar + No posee: Cocina (a gas, eléctrica, etc.), horno",HOGAR_POBRE,0.0307,0.5862,1.546,391,0.081
+"No posee: Cocina (a gas, eléctrica, etc.), horno + No posee: Televisor SMART o ANDROID (pantalla plana, con conectividad a internet) + Vivienda tipo casa",HOGAR_POBRE,0.0374,0.5833,1.538,476,0.0986
+No posee: Juego de comedor (completo) + Sin internet,HOGAR_POBRE,0.1132,0.5825,1.536,1441,0.2986
+"No posee: Cocina (a gas, eléctrica, etc.), horno + No posee: Motocicleta (para uso del hogar) + Vivienda tipo casa",HOGAR_POBRE,0.0326,0.582,1.535,415,0.086
+"No posee: Televisor Plasma, LCD,LED (pantalla plana, sin conectividad a internet) + No posee: Televisor SMART o ANDROID (pantalla plana, con conectividad a internet) + Sin agua por cañería de red",HOGAR_POBRE,0.0984,0.5799,1.529,1252,0.2594
+"No posee: Computadora de escritorio, laptop, notebook + No posee: Juego de comedor (completo) + Sin agua por cañería de red",HOGAR_POBRE,0.1115,0.5778,1.524,1419,0.294
+No posee: Juego de comedor (completo) + Sin baño con descarga de agua,HOGAR_POBRE,0.1168,0.5764,1.52,1486,0.3079
+Jefe sin estudios superiores + No posee: Refrigerador/freezer congeladora,HOGAR_POBRE,0.1515,0.576,1.519,1928,0.3995
+No posee: Juego de comedor (completo) + Sin cuarto para cocinar + Vivienda propia,HOGAR_POBRE,0.0303,0.5755,1.518,385,0.0798
+"No posee: Computadora de escritorio, laptop, notebook + Sin agua por cañería de red + Vivienda propia",HOGAR_POBRE,0.11,0.5757,1.518,1400,0.2901
+"No posee: Juego de comedor (completo) + No posee: Televisor Plasma, LCD,LED (pantalla plana, sin conectividad a internet) + Sin agua por cañería de red",HOGAR_POBRE,0.0948,0.5753,1.517,1207,0.2501
+Jefe sin estudios superiores + Sin baño con descarga de agua,HOGAR_POBRE,0.131,0.5746,1.515,1667,0.3454

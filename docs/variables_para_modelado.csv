@@ -1,0 +1,64 @@
+﻿nombre_original,nombre_legible,tipo_dato,tratamiento_recomendado,grupo_redundancia
+depto,Departamento,categórica,categórica -> one-hot,Ninguno
+area,Urbana Rural,binaria,categórica -> one-hot,Ninguno
+s06a_01,La vivienda es:,categórica,categórica -> one-hot,Ninguno
+s06a_02,La vivienda que ocupa este hogar es:,categórica,categórica -> one-hot,Ninguno
+s06a_03,¿Cuál es el material de construcción más utilizado en las paredes de esta vivien,categórica,categórica -> one-hot,Ninguno
+s06a_05,¿Cuál es el material más utilizado en los techos de esta vivienda?,categórica,categórica -> one-hot,Ninguno
+s06a_06,¿Cuál es el material más utilizado en los pisos de esta vivienda?,categórica,categórica -> one-hot,Ninguno
+s06a_07,"¿Principalmente ¿el agua que usan en la vivienda, proviene de...",categórica,categórica -> one-hot,Ninguno
+s06a_09,"¿Qué tipo de baño, servicio sanitario o letrina utilizan normalmente los miembro",categórica,categórica -> one-hot,Ninguno
+s06a_10,"¿El baño, servicio sanitario o letrina tiene desagüe…",categórica,categórica -> one-hot,Ninguno
+s06a_11,"¿El baño, servicio sanitario o letrina es…",categórica,categórica -> one-hot,Ninguno
+s06a_12,¿Usa energía eléctrica para alumbrar esta vivienda?,binaria,categórica -> one-hot,Ninguno
+s06a_13,¿Habitualmente que hace con la basura que genera el hogar?,categórica,categórica -> one-hot,Ninguno
+s06a_14,¿Tiene un cuarto sólo para cocinar?,binaria,categórica -> one-hot,Ninguno
+s06a_15,Principalmente ¿qué tipo de combustible o energía utiliza para cocinar preparar ,categórica,categórica -> one-hot,Ninguno
+s06a_16,"¿Cuántos cuartos o habitaciones de esta vivienda ocupa su hogar, sin contar baño",categórica,categórica -> one-hot,Ninguno
+s06a_18,¿El hogar dispone de línea telefónica fija?,binaria,categórica -> one-hot,Ninguno
+s06a_19,¿Tiene el hogar acceso al servicio de internet en su vivienda?,binaria,categórica -> one-hot,Ninguno
+s06a_20," ¿La conexión a internet es fija, móvil o de ambas?",categórica,categórica -> one-hot,Ninguno
+num_dormitorios,Dormitorios,numérica discreta,numérica discreta (passthrough/estandarizar),G6
+tamano_hogar,Tamaño del hogar,numérica discreta,numérica discreta (passthrough/estandarizar),G5
+num_menores_14,Menores de 14 años,numérica discreta,numérica discreta (passthrough/estandarizar),G1
+num_adultos_mayores,Adultos mayores,numérica discreta,numérica discreta (passthrough/estandarizar),G4
+num_ocupados,Miembros ocupados,numérica discreta,numérica discreta (passthrough/estandarizar),Ninguno
+anios_estudio_prom_15mas,Años estudio prom. 15+,numérica,numérica (estandarizar si aplica),G2
+prop_menores_14,Proporción menores 14,numérica,numérica (estandarizar si aplica),G1
+prop_adultos_mayores,Proporción adultos mayores,numérica,numérica (estandarizar si aplica),G4
+tasa_dependencia_ocupados,Dependientes por ocupado,numérica,numérica (estandarizar si aplica),Ninguno
+jefe_sexo,¿Es hombre o mujer?,binaria,categórica -> one-hot,Ninguno
+jefe_edad,Edad del jefe/a,numérica,numérica (estandarizar si aplica),Ninguno
+jefe_indigena,¿Se autoidentifica con alguna nación pueblo indígena originario campesino o afro,binaria,categórica -> one-hot,Ninguno
+jefe_estado_civil,¿Cuál es su estado civil o conyugal actual?,categórica,categórica -> one-hot,Ninguno
+jefe_nivel_ed,Nivel educativo jefe,ordinal,categórica -> one-hot,G2
+jefe_anios_estudio,Años estudio jefe,numérica discreta,numérica discreta (passthrough/estandarizar),G2
+jefe_condact,Condición actividad jefe,categórica,categórica -> one-hot,Ninguno
+jefe_tipo_ocupacion,Tipo ocupación jefe,categórica,categórica -> one-hot,Ninguno
+jefe_grupo_ocup,Grupo ocupacional jefe,categórica,categórica -> one-hot,Ninguno
+tipohogar,Tipo de hogar,categórica,categórica -> one-hot,Ninguno
+puntaje_inseguridad_alim,Puntaje FIES,ordinal,categórica -> one-hot,G3
+nivel_inseguridad_alim,Nivel inseguridad alim.,ordinal,categórica -> one-hot,G3
+equip_item_1,1. Juego de living (completo)?,binaria,categórica -> one-hot,Ninguno
+equip_item_2,2. Juego de comedor (completo)?,binaria,categórica -> one-hot,Ninguno
+equip_item_3,"3. Cocina (a gas, eléctrica, etc.), horno?",binaria,categórica -> one-hot,Ninguno
+equip_item_4,4. Horno microondas/microondas/freidoras de aire?,binaria,categórica -> one-hot,Ninguno
+equip_item_5,5. Refrigerador/freezer congeladora?,binaria,categórica -> one-hot,Ninguno
+equip_item_6,6. Aire acondicionado/estufa o calefón/ventilador?,binaria,categórica -> one-hot,Ninguno
+equip_item_7,"7. Computadora de escritorio, laptop, notebook?",binaria,categórica -> one-hot,Ninguno
+equip_item_8,8. Tablet?,binaria,categórica -> one-hot,Ninguno
+equip_item_9,9. Teléfono celular?,binaria,categórica -> one-hot,Ninguno
+equip_item_10,"10. Radio, radiograbador?",binaria,categórica -> one-hot,Ninguno
+equip_item_11,11. Minicomponente o equipo de sonido?,binaria,categórica -> one-hot,Ninguno
+equip_item_12,12. Televisor CRT antiguo?,binaria,categórica -> one-hot,Ninguno
+equip_item_13,"13. Televisor Plasma, LCD,LED (pantalla plana, sin conectividad a internet)?",binaria,categórica -> one-hot,Ninguno
+equip_item_14,"14. Televisor SMART o ANDROID (pantalla plana, con conectividad a internet)?",binaria,categórica -> one-hot,Ninguno
+equip_item_15,15. Lavadora y/o secadora de ropa?,binaria,categórica -> one-hot,Ninguno
+equip_item_16,16. Bicicleta (para uso del hogar)?,binaria,categórica -> one-hot,Ninguno
+equip_item_17,17. Motocicleta (para uso del hogar)?,binaria,categórica -> one-hot,Ninguno
+equip_item_18,18. Automóvil (para uso del hogar)?,binaria,categórica -> one-hot,Ninguno
+total_activos_hogar,Total activos hogar,numérica discreta,numérica discreta (passthrough/estandarizar),Ninguno
+personas_por_dormitorio,Personas por dormitorio,numérica,numérica (estandarizar si aplica),G6
+hacinamiento,Hacinamiento,binaria,categórica -> one-hot,G6
+jefe_estudio_rango,Rango estudio jefe,ordinal,categórica -> one-hot,G2
+tamano_hogar_rango,Rango tamaño hogar,ordinal,categórica -> one-hot,G5

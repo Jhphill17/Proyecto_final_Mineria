@@ -1,0 +1,6 @@
+grupo,n_vars,cv_auc
+todos,63,0.8551900033653765
+sin_inseguridad_alim,61,0.8533761528063512
+sin_territorio,61,0.8519871095722372
+sin_ambos,59,0.8504298382014681
+sin_equipamiento,45,0.8549678283973925
